@@ -1004,3 +1004,83 @@ footer .social-links li:first-child { margin-left: 0; }
 }
 #go-top a:hover { background-color: #0F9095; }
 
+.fa-link {
+   background-color: #4CAF50; /* Green */
+   border: none;
+   color: white;
+   padding: 16px 16px;
+   text-align: center;
+   text-decoration: none;
+   display: inline-block;
+   font-size: 10px;
+   margin: 4px 2px;
+   transition-duration: 0.4s;
+   cursor: pointer;
+   border-radius: 25px;
+   flex-direction: column;
+   display: flex;
+ }
+
+
+.fa-link {
+   background-color: #008CBA;
+   color: white;
+   flex-direction: column;
+   display: flex;
+ }
+ 
+ .fa-link:hover {
+   background-color: white; 
+   color: black; 
+   flex-direction: column;
+   display: flex;
+   
+ }
+
+ #github {
+   background-color: #4CAF50; /* Green */
+   border: none;
+   color: white;
+   padding: 16px 16px;
+   text-align: center;
+   text-decoration: none;
+   display: inline-block;
+   font-size: 10px;
+   margin: 4px 2px;
+   transition-duration: 0.4s;
+   cursor: pointer;
+   border-radius: 25px;
+   flex-direction: column;
+   display: flex;
+ }
+
+
+#github {
+   background-color: #008CBA;
+   color: white;
+   flex-direction: column;
+   display: flex;
+ }
+ 
+ #github:hover {
+   background-color: white; 
+   color: black; 
+   flex-direction: column;
+   display: flex;
+   
+ }
+ #viewcode6{
+    justify-content: space-between;
+    display: flex;
+    border: 1px solid;
+    border-radius: 25px;
+    margin-top: 2%;
+ }
+
+ #viewcode7{
+   justify-content: space-between;
+   align-self: center;
+  
+}
+
+ 
