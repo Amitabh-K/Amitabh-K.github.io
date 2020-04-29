@@ -1,12 +1,12 @@
 let resumeData = {
   "imagebaseurl":"https://Amitabh-K.github.io/",
   "name": "Amitabh Kumar",
-  "role": "MERN Stack developer",
+  "role": "Welcome to my page",
   "linkedinId":" https://www.linkedin.com/in/amitabh-k",
   "skypeid": " live:amitabh.kumar2",
   "email": " amitabh.kumar2@gmail.com",
   "phone": " +1 437 981 4798",
-  "roleDescription": "  I have passion for Web Application development using technologies like React, NodeJS, Express, MongoDB",
+  "roleDescription": "  ",
   "socialLinks":[
       {
         "name":"linkedin",

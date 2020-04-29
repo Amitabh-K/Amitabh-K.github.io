@@ -1077,10 +1077,20 @@ footer .social-links li:first-child { margin-left: 0; }
     margin-top: 2%;
  }
 
- #viewcode7{
-   justify-content: space-between;
-   align-self: center;
-  
+
+
+#logo{
+   color: #fed136;   
+    font-family: "Kaushan Script","Helvetica Neue",Helvetica,Arial,cursive;
+    font-size: 28px;
+    clear: column;
+    align-content: left;
+    margin-top: 5%;
+    font-style: italic;
+
 }
 
- 
+#box{
+  float: left;
+   
+}
